@@ -1,4 +1,4 @@
-git add server.js
-git commit -m "Atualizado server.js para rodar no Render"
+git add package.json
+git commit -m "Atualizado package.json para rodar no Render"
 git push
 
